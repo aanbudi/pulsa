@@ -1,4 +1,0 @@
-pulsa
-=====
-
-pulsa
